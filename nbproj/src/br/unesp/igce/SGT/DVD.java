@@ -7,7 +7,9 @@ package br.unesp.igce.SGT;
 /**
  *
  * @author aluno
- */
+ * Lembrete: alterar para projeto de Sistema de Gerenciamento de tarefas
+ **/
+ 
 public class DVD {
     private String titulo;
     private String diretor;
